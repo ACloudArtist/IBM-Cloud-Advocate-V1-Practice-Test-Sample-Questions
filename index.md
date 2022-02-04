@@ -1,5 +1,5 @@
 ## How to pass IBM Cloud Advocate V1 Certification Exam in Few Hours.
-Hi I am Cloud Artist here !! 
+Hello Cloud Artist!! 
 
 Recently I cracked the IBM Cloud Advocate V1 certification exam. I am going to share my experience with you here..
 IBM Cloud Advocate is the exam that test on foundational level knowledge of cloud concepts and IBM Cloud services.
