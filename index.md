@@ -26,7 +26,8 @@ Cloud Artist is a leading plateform which provide Corporate & Personal training 
 
 Link is given below for Udemy Practice Test for IBM Cloud Advocate Exam - 
 
-https://www.udemy.com/course/exam-ibm-cloud-advocate-v1-practice-test/?referralCode=B0FF035FE037348EFB1B
+ <a href="https://www.udemy.com/course/exam-ibm-cloud-advocate-v1-practice-test/?referralCode=B0FF035FE037348EFB1B">Practice Test Link</a> 
+
 
 I believe whethere you are from technicle background or from non-technicle background, Using Cloud Artist Udemy test you can pass the certification in one day.
 This course is very helpfull, It contains all the required details, explanation and article links.
