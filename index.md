@@ -9,8 +9,9 @@ I will give you all the information you need to pass the exam in 1 days or less.
 ### Study Plan : 
 
 This is the same study plan I used to pass IBM Advocate v1 exam:
-                  1. 3 day for learning from IBM Cloud learning path.
-                  2. 1 day for exam preparation
+
+                 ### 1. 3 day for learning from IBM Cloud learning path.
+                 ### 2. 1 day for exam preparation
                   
 One day means 6–8 hours of work. So it might take around a weeks to study 2–3 hours per day after work.
 I used IBM Cloud learning path videos, However, the material is great quality but its quite lengthy.
