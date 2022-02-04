@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## How I passed IBM Cloud Advocate V1 Certification Exam.
 
-You can use the [editor on GitHub](https://github.com/ACloudArtist/IBMCloudAdvocateV1.GitHub.IO/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+IBM Cloud Advocate is the exam that test on foundational level knowledge of cloud concepts and IBM Cloud services.
+I found the content of this exam to be very beneficial for anyone who would like to kick start their cloud journey with IBM Cloud.
+I will give you all the information you need to pass the exam in 1 days or less.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Study Plan
+This is the same study plan I used to pass IBM Advocate v1 exam:
+                  1. 3 day for learning from IBM Cloud learning path.
+                  2. 1 day for exam preparation
+                  
+One day means 6–8 hours of work. So it might take around a weeks to study 2–3 hours per day after work.
+I used IBM Cloud learning path videos, However, the material is great quality but its quite lengthy.
 
-### Markdown
+This learning path took me 9–10 hours including taking notes and research on random technical words.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# How you can pass the IBM Cloud Advocate v1 in 1 Day.
 
-```markdown
-Syntax highlighted code block
+Using Cloud Artist : IBM Cloud Advocate V1 practice test, You will gain all the fundamental knowledge of IBM cloud in 1 day and whether you are from technical or non-technical background, You can pass the IBM Cloud Advocate V1 Exam in first attempt with good marks.
 
-# Header 1
-## Header 2
-### Header 3
+Cloud Artist is a leading plateform which provide Corporate & Personal training acrooss all IT technologies.
 
-- Bulleted
-- List
+Link is given below for Udemy Practice Test for IBM Cloud Advocate Exam - 
 
-1. Numbered
-2. List
+https://www.udemy.com/course/exam-ibm-cloud-advocate-v1-practice-test/?referralCode=B0FF035FE037348EFB1B
 
-**Bold** and _Italic_ and `Code` text
+I believe whethere you are from technicle background or from non-technicle background, Using Cloud Artist Udemy test you can pass the certification in one day.
+This course is very helpfull, It contains all the required details, explanation and article links.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ACloudArtist/IBMCloudAdvocateV1.GitHub.IO/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
